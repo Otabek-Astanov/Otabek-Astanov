@@ -10,7 +10,7 @@
 
 <div align="center">
  
-## Contact me with Telegram   <a href="https://t.me/Otabek_Astanov"><img width="28px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"> </a> </br>
+## Contact me with    <a href="https://t.me/Otabek_Astanov"><img width="28px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg">Telegram</a> </br>
 
  </div>
 
